@@ -1,0 +1,43 @@
+.heading
+{
+    font-size: 26px;
+    width: fit-content;
+    margin: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 20px;
+}
+
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    border: 2px solid orangered;
+    border-radius: 30px;
+    box-shadow: 6px 6px 6px orange;
+    width: fit-content;
+    height: fit-content;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color: yellow;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
